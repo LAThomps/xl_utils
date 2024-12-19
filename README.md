@@ -13,9 +13,9 @@
 ## Installation
 
 ```console
-pip install xl-utils
+pip install xl_utils
 ```
 
 ## License
 
-`xl-utils` is distributed under the terms of the [MIT](https://spdx.org/licenses/MIT.html) license.
+`xl_utils` is distributed under the terms of the [MIT](https://spdx.org/licenses/MIT.html) license.
